@@ -19,7 +19,7 @@ bot.on('ready', () =>{
     console.log('Bot Ready !');
 });
 
-bot.login('NDUxNzE1MTY1OTQwMDg4ODM0.DfTPrw.UnNcD3EfuGXqq_fBAgLN_qU9R6g');
+bot.login('');
 
 bot.on('message', function(message) {
 
